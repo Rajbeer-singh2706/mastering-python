@@ -1,1 +1,1 @@
-# mastering-python
+# python-automation
