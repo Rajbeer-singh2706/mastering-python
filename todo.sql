@@ -14,7 +14,8 @@ Here are seven medium-level Python problems for you to solve, covering a variety
      ```
 
 ### 3. **Product of Array Except Self**
-   - **Problem**: Given an integer array `nums`, return an array `answer` such that `answer[i]` is equal to the product of all the elements of `nums` except `nums[i]`. You must solve it without using division and in `O(n)` time.
+   - **Problem**: Given an integer array `nums`, return an array `answer` such that `answer[i]` is equal to the product of all the elements of `nums` except `nums[i]`. 
+   You must solve it without using division and in `O(n)` time.
    - **Example**:
      ```python
      Input: [1, 2, 3, 4]
@@ -30,13 +31,6 @@ Here are seven medium-level Python problems for you to solve, covering a variety
      Output: [0, 0, 1, 1, 2, 2]
      ```
 
-### 5. **Find All Anagrams in a String**
-   - **Problem**: Given a string `s` and a string `p`, return the start indices of all the anagrams of `p` in `s`.
-   - **Example**:
-     ```python
-     Input: s = "cbaebabacd", p = "abc"
-     Output: [0, 6]
-     ```
 
 ### 6. **Binary Tree Level Order Traversal**
    - **Problem**: Given the `root` of a binary tree, return the level order traversal of its nodes' values (i.e., from left to right, level by level).
